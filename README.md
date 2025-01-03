@@ -14,7 +14,7 @@ The data used for this project consists of weather observations from 18 weather 
 
 
 ## Folders
-Please explore my Jupyter notebooks used for analysis in the project located in the Scripts folder.  
+Please explore my Jupyter notebooks used for analysis in this project. The notebooks are located in the Scripts folder.  
 
 ## Presentation
 A recorded presentation of the interim report for this project can be viewed [here.](https://www.youtube.com/watch?v=3gL9f9YHMNQ)

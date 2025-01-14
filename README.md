@@ -25,6 +25,6 @@ A copy of the slides used in the interim report presentation can be accessed [he
 
 A recorded presentation of the final report for this project can be viewed [here.](https://youtu.be/UQZxqKF1JZI)
 
-A copy of the slides used in the final report presentation can be accessed [here.](https://drive.google.com/file/d/1AaKUQttrVQltw_KHHGrAMytoavCd6PmG/view?usp=sharing).
+A copy of the slides used in the final report presentation can be accessed [here.](https://drive.google.com/file/d/1AaKUQttrVQltw_KHHGrAMytoavCd6PmG/view?usp=sharing)
 
 #### Please reach out if you have any questions or would like to discuss!

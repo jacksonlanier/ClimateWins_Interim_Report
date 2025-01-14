@@ -14,7 +14,9 @@ The data used for this project consists of weather observations from 18 weather 
 
 
 ## Folders
-Please explore my Jupyter notebooks used for analysis in this project. The notebooks are located in the Scripts (all data analyzed through the interim report) and Scripts_Part_2 (all data analyzed after interim report until final report) folders.
+Please explore my Jupyter notebooks used for analysis in this project. The notebooks are located in the Project Scripts (all data analyzed through the interim report) and Project SCripts 2 (all data analyzed after interim report until final report) folders.
+
+The script titled 1.3-Gradient-Descent-for-Temperatures was too large to upload without zipping but belongs with the first set of scripts. 
 
 My analyses of each topic can be found in the Project_Analyses folder. 
 
